@@ -1,5 +1,5 @@
 <h1 align="center">
-  Projeto de Introdução ao Back-end - Labenu System  
+  Back-end Introduction Project - Labenu System  
 </h1>
 
 <p align="center">
@@ -12,32 +12,23 @@
 
 ---
 
-# Índice
+## 🚀️ About the Project
 
-- 🚀️ Sobre o Projeto
-- 👨‍💻️ Tecnogias utilizadas
-- 📦️ Como utilizar o projeto
-- 🤔️ Como contribuir
-
----
-
-## 🚀️ Sobre o Projeto
-
-A proposta do **Labenu System** é ter um sistema que represente a organização da Labenu, como um projeto básico e introdutório ao back-end.
-Possui os seguintes dados:
-- Estudantes (O usuário poderá criá-los e adicioná-los em turmas)
-- Docentes (O usuário poderá criá-los e adicioná-los em turmas)
-- Turmas (Dados pré-definidos pelo programador para que o estudante e docente sejam adicionados)
-- Hobbies (O usuário poderá criá-los. Cada estudante pode receber mais de um hobby)
-- Especialidades (Dados pré-definidos pelo programador. Cada docente pode receber mais de uma especialidade)
+The purpose of the **Labenu System** is to have a system that represents the organization of Labenu, as a basic and introductory project to the back-end.
+It has the following data:
+- Students (User can create and add them to classes)
+- Teachers (The user will be able to create and add them in classes)
+- Classes (Data pre-defined by the programmer for the student and teacher to be added)
+- Hobbies (The user can create them. Each student can receive more than one hobby)
+- Specialties (Data predefined by the programmer. Each teacher can receive more than one specialty)
 
 ---
 
-## 👨‍💻️ Tecnologias utilizadas
+## 👨‍💻️ Technologies
 
 - Node
 
-### Dependências:
+### Dependencies:
 
 - Express
 - Cors
@@ -55,54 +46,54 @@ Possui os seguintes dados:
 
 ---
 
-## 📦️ Como utilizar o projeto
+## 📦️ How to use
 
-- Para copiar o projeto, utilize os comandos:
+- To copy the project, use the commands:
 
 ```bash
-  # Clonar o repositório
+  # Clone the repository
   ❯ git clone https://github.com/future4code/jackson-labenu-system9.git
 
-  # Entrar no diretório
+  # Enter directory
   ❯ cd jackson-labenu-system9
 ```
 
-- Para instalar as dependências e iniciar o projeto, você pode utilizar o Yarn ou NPM:
+- To install the dependencies and start the project, you can use Yarn or NPM:
 
-**Utilizando yarn**
+**Using yarn**
 
 ```bash
-  # Instalar as dependências
+  # Install the dependencies
   ❯ yarn
 
-  # Iniciar o projeto
+  # Start the project
   ❯ yarn dev:server
 ```
 
-**Utilizando npm**
+**Using npm**
 
 ```bash
-  # Instalar as dependências
+  # Install the dependencies
   ❯ npm install
 
-  # Iniciar o projeto
+  # Start the project
   ❯ npm start
 ```
 
 ---
 
-## 🤔️ Como contribuir
+## 🤔️ Contribution
 
-1. Faça o `fork` deste repositório
-2. Crie uma branch com sua feature:
-   - `$ git checkout -b minha_feature`
-3. Confirme sua branch:
-   - `$ git commit -m "feature: Meu novo recurso"`
-4. Envie sua branch:
-   - `$ git push origin minha_feature`
+1. `fork` this repository
+2. Create a branch with your feature:
+   - `$ git checkout -b my_feature`
+3. Confirm your branch:
+   - `$ git commit -m "feature: my new feature"`
+4. Send your branch:
+   - `$ git push origin my_feature`
 
 ---
 
 <h4 align="center">
-  por Alice Souza 💚 
+  by Alice Souza 💚 
 </h4>
