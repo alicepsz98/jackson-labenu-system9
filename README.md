@@ -95,5 +95,5 @@ It has the following data:
 ---
 
 <h4 align="center">
-  by Alice Souza 💚 
+  by Alice Souza 💚
 </h4>
